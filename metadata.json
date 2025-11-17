@@ -1,0 +1,7 @@
+{
+  "name": "OmniDiag: AI Diagnostic Assistant",
+  "description": "An intelligent assistant that uses multimodal AI to analyze faults, detect anomalies, and generate diagnostic reports for a wide range of industrial and mechanical systems.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
